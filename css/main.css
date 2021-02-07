@@ -1,0 +1,7 @@
+/* copertina */
+body {
+  background-image: url("../img/pattern.png");
+  background-repeat: no-repeat;
+  background-position: right-bottom;
+  text-align: center;
+}
